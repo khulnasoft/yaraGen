@@ -206,11 +206,11 @@ In order to use only strings for your rules that match a certain minimum score u
 
 ### Preset author and reference
 
-```python yaraGen.py -a "Florian Roth" -r "http://goo.gl/c2qgFx" -m /opt/mal/case_441 -o case441.yar```
+```python yaraGen.py -a "KhulnaSoft DevSec" -r "http://goo.gl/c2qgFx" -m /opt/mal/case_441 -o case441.yar```
 
 ### Add opcodes to the rules
 
-```python yaraGen.py --opcodes -a "Florian Roth" -r "http://goo.gl/c2qgFx" -m /opt/mal/case33 -o rules33.yar```
+```python yaraGen.py --opcodes -a "KhulnaSoft DevSec" -r "http://goo.gl/c2qgFx" -m /opt/mal/case33 -o rules33.yar```
 
 ### Show debugging output
 
@@ -232,7 +232,7 @@ The new databases will automatically be initialized during startup and are from 
 
 ### My Best Pratice Command Line
 
-```python yaraGen.py -a "Florian Roth" -r "Internal Research" -m /opt/mal/apt_case_32```
+```python yaraGen.py -a "KhulnaSoft DevSec" -r "Internal Research" -m /opt/mal/apt_case_32```
 
 # db-lookup.py
 

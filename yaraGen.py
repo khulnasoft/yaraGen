@@ -5,7 +5,7 @@
 # yaraGen
 # A Rule Generator for YARA Rules
 #
-# Florian Roth
+# KhulnaSoft DevSec
 
 __version__ = "0.24.0"
 
@@ -2033,7 +2033,7 @@ def signal_handler(signal_name, frame):
 
 
 def print_welcome():
-
+    print("  Note: Rules have to be post-processed")
 
 # MAIN ################################################################
 if __name__ == '__main__':
